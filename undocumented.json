@@ -1,0 +1,96 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 14,
+      "symbol": "FormatWithLanguage.rus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 15,
+      "symbol": "FormatWithLanguage.eng",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 17,
+      "symbol": "FormatWithLanguage.textReplacing",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 29,
+      "symbol": "DateFormats.yearMonthDayWithDots",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 30,
+      "symbol": "DateFormats.yearMonthDayWithLine",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 31,
+      "symbol": "DateFormats.dayMonthLetterYear",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 32,
+      "symbol": "DateFormats.dayMonthDigitsYear",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 33,
+      "symbol": "DateFormats.serverTime",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 34,
+      "symbol": "DateFormats.dayMonthLetterYearAndTime",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 35,
+      "symbol": "DateFormats.timeWithDigits",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Enums/Enums.swift",
+      "line": 36,
+      "symbol": "DateFormats.yearMonthDayWithLineAndTime",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/NWPathMonitor/NetworkChecker.swift",
+      "line": 40,
+      "symbol": "NetworkChecker.status",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/runner/work/garpix_utils/garpix_utils/Sources/GXUtilz/Protocols/Protocols.swift",
+      "line": 22,
+      "symbol": "AnyOptional.isNil",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/runner/work/garpix_utils/garpix_utils"
+}
